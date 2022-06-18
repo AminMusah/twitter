@@ -58,7 +58,7 @@ function SideBar() {
         </div>
 
         <Profile
-          image="./images/IMG_0152.JPG"
+          image="./images/IMG_0786.JPG"
           name="Black Hippy"
           username="@_ameen___"
           icon="fa-solid fa-ellipsis"

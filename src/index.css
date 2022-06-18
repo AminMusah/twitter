@@ -114,7 +114,6 @@ body {
 .profile {
   display: flex;
   margin-top: 180px;
-  padding: 10px;
   transition-duration: 0.2s;
 }
 
@@ -126,7 +125,7 @@ body {
 
 .profile p {
   font-size: 15px;
-  margin-right: 100px;
+  margin-right: 80px;
 }
 
 .profile img {
@@ -444,6 +443,20 @@ body {
   background-color: rgb(247, 255, 255);
   border-radius: 30px;
   margin-top: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    margin: auto 10px;
+  }
+
+  .icons {
+    width: 0px;
+  }
+
+  .container {
+    min-width: 400px;
+  }
 }
 
 @media only screen and (max-width: 1200px) {
