@@ -15,7 +15,7 @@ function Feed() {
   return (
     <div className="feed">
       {loading && <div className="loader"></div>}
-      <TwitterTweetEmbed tweetId={"1527628109989699584"} />;
+      <TwitterTweetEmbed tweetId={"1527628109989699584"} />
       <TwitterTweetEmbed tweetId={"1527692714686525440"} />
       <TwitterTweetEmbed tweetId={"1526908472461340673"} />
       <TwitterTweetEmbed tweetId={"1527758575531184128"} />

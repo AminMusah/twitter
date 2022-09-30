@@ -113,13 +113,15 @@ body {
 
 .profile {
   display: flex;
-  margin-top: 180px;
+  margin-top: 140px;
   transition-duration: 0.2s;
+  padding: 10px;
+
 }
 
 .profile:hover {
   background-color: #d4d4d499;
-  border-radius: 50px;
+  border-radius: 100px;
   cursor: pointer;
 }
 
@@ -457,6 +459,10 @@ body {
   .container {
     min-width: 400px;
   }
+
+  .profile-img{
+    margin: 0;
+  }
 }
 
 @media only screen and (max-width: 1200px) {
@@ -484,8 +490,9 @@ body {
   .profile {
     width: 60px;
     height: 60px;
-    margin-top: 150px;
+    margin-top: 70px;
   }
+
 
   .feather-tweet-btn {
     display: flex;

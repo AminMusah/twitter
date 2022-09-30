@@ -58,7 +58,7 @@ function SideBar() {
         </div>
 
         <Profile
-          image="./images/IMG_0786.JPG"
+          image="https://images.unsplash.com/photo-1493514789931-586cb221d7a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8d2FsbHBhcGVyJTIwNGt8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
           name="Black Hippy"
           username="@_ameen___"
           icon="fa-solid fa-ellipsis"

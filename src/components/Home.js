@@ -14,7 +14,7 @@ function Home() {
       </header>
       <div className="home">
         <section className="input-section">
-          <img src="./images/IMG_0786.JPG" alt="supreme" />
+          <img src="https://images.unsplash.com/photo-1493514789931-586cb221d7a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8d2FsbHBhcGVyJTIwNGt8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="supreme" />
           <input type="text" placeholder="What's happening?" />
         </section>
         <section className="tweet-footer">
